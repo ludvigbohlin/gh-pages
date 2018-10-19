@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Solid. A Bootstrap theme for Jekyll.
 ============
 ![Screenshot](https://st4ple.github.io/solid-jekyll/assets/img/browser.png)
@@ -80,3 +81,8 @@ If you want to host your website somewhere else than GitHub (or just would like 
 
 ##License
 This theme is licensed under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/).
+=======
+# gh-pages
+Github Pages
+This is a README
+>>>>>>> d5eb6ca9794c445aac91cf1318b7e615f9468d7f
